@@ -1,0 +1,2 @@
+A program that finds duplicates in the first two columns of and excel file in both combinations AB and BA
+For this example the .xlsx file name is Roles.xlsx, you will have to replace the file name (and path if needed) with yours
